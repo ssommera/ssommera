@@ -6,7 +6,7 @@ Exploring the depths of artificial intelligence, unraveling the mysteries of mat
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/stephen-sommer-0a6bb0164/) | [X](https://twitter.com/kassotstone) | [My Website](https://www.ssommer.tech)
 
-
+![visitors](https://vbr.nathanchung.dev/badge?page_id=ssommera.ssommera&color=00cf00)
 
 <!--
 **ssommera/ssommera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
