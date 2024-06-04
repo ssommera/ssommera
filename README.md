@@ -3,7 +3,7 @@
 
 Exploring the depths of artificial intelligence, unraveling the mysteries of mathematics, and pondering the existential questions of existence.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/stephen-sommer-0a6bb0164/) | [X](https://twitter.com/kassotstone) | [Website](https://www.ssommer.tech)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/stephen-sommer-0a6bb0164/) | [X](https://twitter.com/kassotstone) | [My Website](https://www.ssommer.tech)
 
 
 
