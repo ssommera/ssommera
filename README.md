@@ -1,5 +1,5 @@
 # @ssommera (Stephen Sommer)
-## AI Developer, Mathematician, and Philosopher
+## AI Developer, Mathematician, and AI Philosopher
 <!-- AI Scientist, Mathematician, and Philosopher-->
 
 Exploring the depths of artificial intelligence, unraveling the mysteries of mathematics, and pondering the existential questions of existence.
