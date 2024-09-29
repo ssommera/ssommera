@@ -1,5 +1,5 @@
 # @ssommera (Stephen Sommer)
-## “AI Enthusiast: Developer, Researcher, Master’s Candidate & Philosopher”
+## “AI Enthusiast: Developer, Researcher, Mathematician & Philosopher”
 <!-- AI Scientist, Mathematician, and Philosopher-->
 
 Exploring the depths of artificial intelligence, unraveling the mysteries of mathematics, and pondering the existential questions of existence.
