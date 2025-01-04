@@ -1,3 +1,4 @@
+# Stephen Sommer (@ssommera)
 ## **AI Researcher | Developer | Philosopher**  
 *Exploring the realms of Artificial Intelligence, unraveling its potential to change the world, and reflecting on how technology intersects with human existence.*
 
