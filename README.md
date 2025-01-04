@@ -1,24 +1,21 @@
 # @ssommera (Stephen Sommer)
-## “AI Enthusiast: Developer, Researcher, Mathematician & Philosopher”
-<!-- AI Scientist, Mathematician, and Philosopher-->
+## **AI Researcher | Developer | Philosopher**  
+*Exploring the realms of Artificial Intelligence, unraveling its potential to change the world, and reflecting on how technology intersects with human existence.*
 
-Exploring the depths of artificial intelligence, unraveling the mysteries of mathematics, and pondering the existential questions of existence.
+---
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/stephen-sommer-0a6bb0164/) | [X](https://twitter.com/kassotstone) | [My Website](https://www.ssommer.tech)
+### **Areas of Focus:**
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=ssommera.ssommera&color=00cf00)
+- **Developer & AI Enthusiast**:  
+  Building intelligent systems that complement human capabilities.
+  
+- **Mathematician & Researcher**:  
+  Delving into the theoretical side of AI, from algorithms to ethics.
 
-<!--
-**ssommera/ssommera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Philosopher**:  
+  Pondering the ethical implications of AI and its role in shaping society.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/stephen-sommer-0a6bb0164/) | [My Website](https://www.ssommer.tech) | [Discord](https://discord.com/users/188387061147893771) 
