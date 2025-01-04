@@ -7,13 +7,13 @@
 ### **Areas of Focus:**
 
 - **Developer & AI Enthusiast**:  
-  *Building intelligent systems that complement human capabilities.
+  *Building intelligent systems that complement human capabilities.*
   
 - **Mathematician & Researcher**:  
-  *Delving into the theoretical side of AI, from algorithms to ethics.
+  *Delving into the theoretical side of AI, from algorithms to ethics.*
 
 - **Philosopher**:  
-  *Pondering the ethical implications of AI and its role in shaping society.
+  *Pondering the ethical implications of AI and its role in shaping society.*
 
 ---
 
