@@ -15,7 +15,7 @@ learning and reinforcement learning.
 
 ### 🧪 Featured Research
 - **[cortex-unsupervised](https://github.com/ssommera/cortex-unsupervised)** — unsupervised neural state discovery from EEG (ICA, PCA, UMAP, clustering)
-- **[The Bill Coleman Project](https://github.com/ssommera)** — AI for early detection of small cell lung cancer
+- **[The Bill Coleman Project]((https://github.com/ssommera/Bill_Coleman_Project))** — AI for early detection of small cell lung cancer
 
 ### 🛠️ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
